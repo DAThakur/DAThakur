@@ -11,8 +11,8 @@ Passionate Data Analyst with 3 years of experience in data analysis and visualiz
 - Statistical Analysis
 
 ## Projects
-1. **Sales Analysis Dashboard**
-   - Developed a dashboard using Tableau to visualize sales data and identify trends.
+1. **Basic Sales Analysis Dashboard**
+   - Developed a basic dashboard using Pivot talbes to visualize sales data and identify performance.
    - Tools: Excel
    - (https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
 

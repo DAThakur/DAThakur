@@ -19,11 +19,11 @@
 
 ## Experience
 - Claims Analyst | Evolent (2021-2023)
-    - Conducted data analysis on patient records and healthcare metrics to identify trends and patterns.
-    - Assisted in developing predictive models for patient outcomes using machine learning algorithms.
+    - Utilized Excel for data cleaning, analysis, and reporting on patient records and healthcare metrics.
+    - Conducted data analysis and querying using SQL to extract insights from large datasets.
+    - Developed interactive dashboards and visualizations in Power BI to communicate findings to stakeholders.
     - Collaborated with healthcare professionals to optimize data collection processes and ensure data integrity.
-    - Generated reports and dashboards to support decision-making in patient care and resource allocation.
-
+    - Assisted in developing predictive models for patient outcomes using machine learning algorithms.
 ## Education
 - Bachelor of Commerce, Pune University
 - Data Analysis Certification from CodeBasic

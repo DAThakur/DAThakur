@@ -13,13 +13,8 @@ Passionate Data Analyst with 3 years of experience in data analysis and visualiz
 ## Projects
 1. **Sales Analysis Dashboard**
    - Developed a dashboard using Tableau to visualize sales data and identify trends.
-   - Tools: Tableau, SQL
-   - [Link to Project](https://github.com/username/sales-analysis)
-
-2. **Customer Segmentation**
-   - Analyzed customer data and created segments based on purchasing behavior.
-   - Tools: Python, Pandas, Scikit-learn
-   - [Link to Project](https://github.com/username/customer-segmentation)
+   - Tools: Excel
+   - (https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
 
 ## Experience
 - Data Analyst at XYZ Company (2019-2022)

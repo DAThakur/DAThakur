@@ -1,7 +1,7 @@
 # Darshan Thakur - Data Analyst
 
 ## Introduction
-Passionate Data Analyst with 3 years of experience in data analysis and visualization. Skilled in Excel, SQL, PowerBI and Python.
+📊 Aspiring Data Analyst dedicated to leveraging data-driven insights for informed business decisions. Passionate about transforming raw data into actionable strategies that drive growth and success. 💼 Let's unlock the power of data together!
 
 ## Skills
 - Data Analysis

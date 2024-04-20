@@ -23,7 +23,7 @@
     - Conducted data analysis and querying using SQL to extract insights from large datasets.
     - Developed interactive dashboards and visualizations in Power BI to communicate findings to stakeholders.
     - Collaborated with healthcare professionals to optimize data collection processes and ensure data integrity.
-    - Assisted in developing predictive models for patient outcomes using machine learning algorithms.
+ 
 ## Education
 - Bachelor of Commerce, Pune University
 - Data Analysis Certification from CodeBasic

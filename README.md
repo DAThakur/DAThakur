@@ -15,7 +15,7 @@ Passionate Data Analyst with 3 years of experience in data analysis and visualiz
    - Developed a basic dashboard using Pivot talbes to visualize sales data and identify performance.
    - Tools: Excel
    - (https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
-   - Note - #Please unable all micros before analysing the project.#
+   - Please note: To view all the details in this project, ensure that macros are enabled to access the full functionality of the sheets.
 
 ## Experience
 - Data Analyst at XYZ Company (2019-2022)

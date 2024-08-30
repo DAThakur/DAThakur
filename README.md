@@ -14,7 +14,7 @@
 1. **Basic Sales Analysis Dashboard**
    - Developed a basic dashboard using Pivot tables to visualize sales data and identify performance.
    - Tools: Excel
-   - (https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
+   - (https://github.com/DAThakur/Excel_Projects/blob/main/Dashboard.png)
    - Please note: To view all the details in this project, ensure that macros are enabled to access the full functionality of the sheets.
 
 ## Experience

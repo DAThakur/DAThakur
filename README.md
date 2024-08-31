@@ -5,28 +5,22 @@
 
 ## Skills
 
-![Data Analysis and Visualization](https://img.shields.io/badge/-Data%20Analysis%20and%20Visualization-0078D4?style=flat)
-![Data Management](https://img.shields.io/badge/-Data%20Management-217346?style=flat)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=flat)
-![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-4479A1?style=flat)
-![Communication and Collaboration](https://img.shields.io/badge/-Communication%20and%20Collaboration-31A8FF?style=flat)
-![People Management](https://img.shields.io/badge/-People%20Management-F7931E?style=flat)
-![Storytelling](https://img.shields.io/badge/-Storytelling-150458?style=flat)
+## Skills
 
+- ![**Data Analysis and Visualization**](https://img.shields.io/badge/-Data%20Analysis%20and%20Visualization-0078D4?style=flat)
+- ![**Data Management**](https://img.shields.io/badge/-Data%20Management-217346?style=flat)
+- ![**Business Intelligence**](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=flat)
+- ![**Statistical Analysis**](https://img.shields.io/badge/-Statistical%20Analysis-4479A1?style=flat)
+- ![**Communication and Collaboration**](https://img.shields.io/badge/-Communication%20and%20Collaboration-31A8FF?style=flat)
+- ![**People Management**](https://img.shields.io/badge/-People%20Management-F7931E?style=flat)
+- ![**Storytelling**](https://img.shields.io/badge/-Storytelling-150458?style=flat)
 
 ## Languages and Tools
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-
-## Projects
-1. **Basic Sales Analysis Dashboard**
-   - Developed a basic dashboard using Pivot tables to visualize sales data and identify performance.
-   - Tools: Excel
-   - https://github.com/DAThakur/Excel_Projects/blob/main/Dashboard.png
-   - Please note: To view all the details in this project, ensure that macros are enabled to access the full functionality of the sheets.
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 ## Experience
 - Claims Analyst | Evolent (2021-2023)

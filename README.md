@@ -5,8 +5,6 @@
 
 ## Skills
 
-## Skills
-
 - ![**Data Analysis and Visualization**](https://img.shields.io/badge/-Data%20Analysis%20and%20Visualization-0078D4?style=flat)
 - ![**Data Management**](https://img.shields.io/badge/-Data%20Management-217346?style=flat)
 - ![**Business Intelligence**](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=flat)
@@ -23,17 +21,19 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 ## Experience
-- Claims Analyst | Evolent (2021-2023)
+- **Claims Analyst | Evolent (2021-2023)**
     - Utilized Excel for data cleaning, analysis, and reporting on patient records and healthcare metrics.
     - Conducted data analysis and querying using SQL to extract insights from large datasets.
     - Developed interactive dashboards and visualizations in Power BI to communicate findings to stakeholders.
     - Collaborated with healthcare professionals to optimize data collection processes and ensure data integrity.
  
-## Education
-- Bachelor of Commerce, Pune University
-- Data Analysis Certification from CodeBasic
-- Microsoft Certified Excel Expert
-- SQL Certification - SQL Bootcamp from Udemy
+## Education and Certifications
+- **Bachelor In Commerce**, Pune University
+- [**Power BI for Data Analyses**](https://codebasics.io/certificate/CB-49-121285)
+- [**SQL for Data Professional**](https://codebasics.io/certificate/CB-50-121285)
+- [**Excel for Business Intelligence**](https://codebasics.io/certificate/CB-51-121285)
+- [**Microsoft Certified Excel Expert**](https://learnandexcel.in/certificates/microsoft-certificate/?course_id=828&cert-nonce=8742d5e671)
+- [**The Complete SQL Bootcamp**](https://www.udemy.com/certificate/UC-edc411ac-1ad0-4276-aae0-f1a0884e2754/)
 
 ## Contact
 - Email: thakurdarshan81@gmail.com

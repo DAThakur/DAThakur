@@ -4,11 +4,15 @@
 📊 Aspiring Data Analyst dedicated to leveraging data-driven insights for informed business decisions. Passionate about transforming raw data into actionable strategies that drive growth and success. 💼 Let's unlock the power of data together!
 
 ## Skills
-- Data Analysis and Visualization
-- Data Management
-- Business Intelligence
-- Statistical Analysis
-- Communication and Collaboration
+
+![Data Analysis and Visualization](https://img.shields.io/badge/-Data%20Analysis%20and%20Visualization-0078D4?style=flat)
+![Data Management](https://img.shields.io/badge/-Data%20Management-217346?style=flat)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=flat)
+![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-4479A1?style=flat)
+![Communication and Collaboration](https://img.shields.io/badge/-Communication%20and%20Collaboration-31A8FF?style=flat)
+![People Management](https://img.shields.io/badge/-People%20Management-F7931E?style=flat)
+![Storytelling](https://img.shields.io/badge/-Storytelling-150458?style=flat)
+
 
 ## Languages and Tools
 

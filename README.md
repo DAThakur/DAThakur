@@ -10,6 +10,13 @@
 - Statistical Analysis
 - Communication and Collaboration
 
+## Languages and Tools
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+
 ## Projects
 1. **Basic Sales Analysis Dashboard**
    - Developed a basic dashboard using Pivot tables to visualize sales data and identify performance.

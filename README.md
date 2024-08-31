@@ -20,8 +20,27 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-
 ## Experience
+
+- **Data Analyst Intern | CodeBasics (March 2024 - January 2025)**
+    - Acquired advanced skills in Excel, SQL, Power BI DAX, Visualization, Power Query, Data Modeling and Data Cleaning, People Management, Stakeholder Management.
+    - Completed and presented projects demonstrating key data analysis techniques:
+        - **Excel:**
+            - Advanced formulas, Pivot Tables, Data Visualization, Report Creation
+            - Projects: AtliQ Hardware Sales and Finance Reports
+       - **Power BI:**
+            - Dashboard Design, DAX, Data Modeling, Interactive Visualizations
+            - Projects: Business 360 Dashboard
+       - **SQL:**
+            - Data Extraction, Manipulation, Query Writing, Data Analysis
+            - Applied SQL to extract, manipulate, and analyze data from large datasets, improving data accuracy and reporting efficiency.
+
+    - Conducted detailed data analysis, including trend analysis, statistical evaluation, and KPI tracking to drive strategic decision-making.
+    - Implemented data cleaning and preprocessing techniques to ensure data quality and consistency across projects.
+    - Utilized Power Query for data transformation and integration, streamlining the data preparation process.
+    - Engaged in problem-solving and critical thinking to interpret complex data sets and derive meaningful insights.
+
+---
 - **Claims Analyst | Evolent (2021-2023)**
     - Utilized Excel for data cleaning, analysis, and reporting on patient records and healthcare metrics.
     - Conducted data analysis and querying using SQL to extract insights from large datasets.

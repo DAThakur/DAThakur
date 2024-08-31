@@ -6,11 +6,12 @@
 ## Skills
 
 - ![Data Analysis and Visualization](https://img.shields.io/badge/-Data%20Analysis%20and%20Visualization-0078D4?style=for-the-badge)
-- ![Data Management](https://img.shields.io/badge/-Data%20Management-217346?style=for-the-badge)
-- ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=for-the-badge)
+![Data Management](https://img.shields.io/badge/-Data%20Management-217346?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=for-the-badge)
 - ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-4479A1?style=for-the-badge)
-- ![Communication and Collaboration](https://img.shields.io/badge/-Communication%20and%20Collaboration-31A8FF?style=for-the-badge)
+![Communication and Collaboration](https://img.shields.io/badge/-Communication%20and%20Collaboration-31A8FF?style=for-the-badge)
 - ![People Management](https://img.shields.io/badge/-People%20Management-F7931E?style=for-the-badge)
+![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-F7931E?style=for-the-badge)
 - ![Storytelling](https://img.shields.io/badge/-Storytelling-150458?style=for-the-badge)
 
 ## Languages and Tools

@@ -33,4 +33,4 @@
 ## Contact
 - Email: thakurdarshan81@gmail.com
 - LinkedIn: https://www.linkedin.com/in/darshan-a-thakur/
-- Portfolio : https://codebasics.io/portfolio/Darshan-Thakur
+- Portfolio : https://codebasics.io/portfolio/Darshan-Thakur and https://www.novypro.com/profile_about/darshan-a-thakur

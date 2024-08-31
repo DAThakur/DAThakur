@@ -57,7 +57,7 @@
 - [**The Complete SQL Bootcamp**](https://www.udemy.com/certificate/UC-edc411ac-1ad0-4276-aae0-f1a0884e2754/)
 
 ## Portfolio
-- [![CodeBasics Portfolio](https://img.shields.io/badge/CodeBasics-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://codebasics.io/portfolio/Darshan-Thakur)  [![Novypro Portfolio](https://img.shields.io/badge/NovYpro-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://www.novypro.com/profile_about/darshan-a-thakur)
+[![CodeBasics Portfolio](https://img.shields.io/badge/CodeBasics-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://codebasics.io/portfolio/Darshan-Thakur)  [![Novypro Portfolio](https://img.shields.io/badge/NovYpro-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://www.novypro.com/profile_about/darshan-a-thakur)
 
 ## Contact
 

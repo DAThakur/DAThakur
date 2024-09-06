@@ -53,8 +53,8 @@
 - [**Power BI for Data Analyses**](https://codebasics.io/certificate/CB-49-121285)
 - [**SQL for Data Professional**](https://codebasics.io/certificate/CB-50-121285)
 - [**Excel for Business Intelligence**](https://codebasics.io/certificate/CB-51-121285)
-- [**Microsoft Certified Excel Expert**](https://learnandexcel.in/certificates/microsoft-certificate/?course_id=828&cert-nonce=8742d5e671)
-- [**The Complete SQL Bootcamp**](https://www.udemy.com/certificate/UC-edc411ac-1ad0-4276-aae0-f1a0884e2754/)
+- [**Microsoft Certified Excel Expert**](https://drive.google.com/file/d/18AbKA9aH6_CZwFXtXxUO66scGqDSzdAS/view?usp=drive_link)
+- [**The Complete SQL Bootcamp**](https://drive.google.com/file/d/1HPFBwOGyAPMzSSMtqEKl5az4hEYdnFDl/view?usp=drive_link)
 
 ## Portfolio
 [![CodeBasics Portfolio](https://img.shields.io/badge/CodeBasics-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://codebasics.io/portfolio/Darshan-Thakur)  [![Novypro Portfolio](https://img.shields.io/badge/NovYpro-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://www.novypro.com/profile_about/darshan-a-thakur)
